@@ -27,3 +27,16 @@ body{
     max-width: var(--content-width);
     padding: 0 21px;
 }
+
+button{
+    background-color: var(--primary-button-color);
+    color: var(--primary-background-color);
+    padding: 15px 44px;
+    border: none;
+    text-transform: uppercase;
+}
+
+a{
+    padding: 15px 44px;
+    text-transform: uppercase;
+}
