@@ -1,0 +1,22 @@
+.hero {
+    display: flex;
+}
+
+.ticker,
+.hero__heading,
+.hero__image {
+    padding: 20px;
+    width: 698px;
+    border: 1px black solid;
+}
+
+.ticker__item-image {
+    margin: 0 29px;
+}
+
+.hero__heading {
+    font-size: var(--heading-font-size);
+    padding: 23px 80px;
+    line-height: 66px;
+    text-align: center;
+}
