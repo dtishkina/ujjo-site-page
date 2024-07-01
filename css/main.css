@@ -6,14 +6,14 @@ html {
     font-size: 20px;
 }
 
-:root{
-    --font-family: "Roboto", sans-serif;
+:root {
+    --font-family: Roboto;
     --content-width: 1397px;
 
     --primary-background-color: #ffffff;
     --secondary-background-color: #CDFD3B;
     --primary-text-color: #000000;
-    ---secondary-text-color: #222222;
+    --secondary-text-color: #222222;
     --primary-button-color: #FB4B4D;
     --secondary-color: #8B83F6;
 
@@ -30,7 +30,7 @@ body {
     background-color: var(--primary-background-color);
     color: var(--primary-text-color);
     max-width: var(--content-width);
-    font-family: var(--font-family);
+    font-family: var(--font-family), sans-serif;
     margin: 0 auto;
     text-transform: uppercase;
 }
@@ -43,10 +43,9 @@ button {
     font-size: var(--button-font-size);
 }
 
-button{
+button {
     background-color: var(--primary-button-color);
     color: var(--primary-background-color);
-    padding: 15px 44px;
     border: none;
 }
 
