@@ -1,16 +1,18 @@
-header{
+header {
     padding: 21px 0;
     border: 1px black solid;
 }
 
-.header-wrapper{
+.header-wrapper {
     display: flex;
     justify-content: space-between;
     padding: 0 21px;
     align-items: center;
 }
 
-.nav-links{
+.nav-links {
+    width: 958px;
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
