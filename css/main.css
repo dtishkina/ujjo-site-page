@@ -1,9 +1,9 @@
 @import 'header.css';
-@import '_hero.css';
-@import '_products.css';
-@import '_story.css';
-@import '_banner.css';
-@import '_footer.css';
+@import 'hero.css';
+@import 'products.css';
+@import 'story.css';
+@import 'banner.css';
+@import 'footer.css';
 
 
 html {
