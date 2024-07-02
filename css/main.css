@@ -68,6 +68,10 @@ button {
     animation: ticker 5s linear infinite;
 }
 
+.ticker__item-image {
+    margin: 0 29px;
+}
+
 @keyframes ticker {
     0% {
         transform: translateZ(0);
