@@ -1,9 +1,9 @@
-@import url('/ujjo-site-page/css/_header.css');
-@import url('hero.css');
-@import url('_products.css');
-@import url('_story.css');
-@import url('_banner.css');
-@import url('_footer.css');
+@import '_header.css';
+@import '_hero.css';
+@import '_products.css';
+@import '_story.css';
+@import '_banner.css';
+@import '_footer.css';
 
 
 html {
