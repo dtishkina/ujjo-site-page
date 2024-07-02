@@ -1,7 +1,7 @@
-@import '_header.css';
-@import '_hero.css';
-@import '_products.css';
-@import '_story.css';
+@import './_header.css';
+@import 'hero.css';
+@import 'css/_products.css';
+@import '/css/_story.css';
 @import '_banner.css';
 @import '_footer.css';
 
