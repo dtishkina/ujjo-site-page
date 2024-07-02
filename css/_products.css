@@ -46,7 +46,7 @@
 }
 
 .card{
-    background-image: url("/assets/product-frame.png");
+    background-image: url("/ujjo-site-page/assets/product-frame.png");
     width: 436px;
     height: 659px;
     justify-content: flex-end;

@@ -22,7 +22,7 @@
     border: 1px black solid;
     border-top: none;
     border-bottom: none;
-    background-image: url('/assets/banner-border.png'), url('/assets/background-fire.png'), url('/assets/background-fire-blue.png');
+    background-image: url('/ujjo-site-page/assets/banner-border.png'), url('/ujjo-site-page/assets/background-fire.png'), url('/ujjo-site-page/assets/background-fire-blue.png');
     background-position: center bottom, center center, center center;
     background-repeat: no-repeat, no-repeat, no-repeat;
     background-size: 1354px 716px, 1395px 838px, 1395px 838px;
