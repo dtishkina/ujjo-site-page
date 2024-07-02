@@ -1,0 +1,29 @@
+.banner-section{
+    display: flex;
+    flex-direction: column;
+}
+
+.banner__ticker{
+    width: 100%;
+    border-top: none;
+}
+
+.banner__image{
+    width: 860px;
+    margin-top: 200px;
+}
+
+.banner {
+    height: 838px;
+    margin-top: -80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px black solid;
+    border-top: none;
+    border-bottom: none;
+    background-image: url('/assets/banner-border.png'), url('/assets/background-fire.png'), url('/assets/background-fire-blue.png');
+    background-position: center bottom, center center, center center;
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-size: 1354px 716px, 1395px 838px, 1395px 838px;
+}
