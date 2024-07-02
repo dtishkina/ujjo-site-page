@@ -21,6 +21,10 @@
     border-left: none;
 }
 
+.hero__ticker {
+    border-left: none;
+}
+
 .hero__image {
     border-bottom: none;
     border-top: none;
