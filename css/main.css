@@ -37,6 +37,7 @@ body {
     font-family: var(--font-family), sans-serif;
     margin: 0 auto;
     text-transform: uppercase;
+    min-width: 1397px;
 }
 
 a,
