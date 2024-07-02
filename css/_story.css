@@ -1,6 +1,7 @@
 .story{
     display: flex;
     border: 1px black solid;
+    border-top: none;
 }
 
 .story__title{
