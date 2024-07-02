@@ -1,5 +1,7 @@
 .hero {
     display: flex;
+    border: 1px black solid;
+    border-top: none;
 }
 
 .ticker,
@@ -10,13 +12,17 @@
     border: 1px black solid;
 }
 
-.ticker__item-image {
-    margin: 0 29px;
-}
-
 .hero__heading {
     font-size: var(--heading-font-size);
     padding: 23px 80px;
-    line-height: 66px;
+    line-height: 65px;
     text-align: center;
+    border-top: none;
+    border-left: none;
+}
+
+.hero__image {
+    border-bottom: none;
+    border-top: none;
+    border-left: none;
 }
