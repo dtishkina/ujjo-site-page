@@ -4,4 +4,5 @@ document.addEventListener('DOMContentLoaded', () => {
     loadSection('sections/header.html', 'header');
     loadSection('sections/hero.html', 'hero');
     loadSection('sections/products.html', 'products');
+    loadSection('sections/story.html', 'story');
 });

@@ -1,0 +1,28 @@
+.story{
+    display: flex;
+    border: 1px black solid;
+}
+
+.story__title{
+    font-size: var(--heading-font-size);
+    line-height: 65px;
+    text-align: center;
+    padding: 53px 54px 44px 54px;
+}
+
+.story__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url("/assets/story-content.svg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    text-align: center;
+    font-size: 0.8rem;
+    border-left: 1px black solid;
+}
+
+.story__text{
+    padding: 14px 154px;
+    line-height: 24px;
+}
